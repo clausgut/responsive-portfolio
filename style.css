@@ -1,0 +1,261 @@
+body {
+    padding:0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #777;
+    background:#dddddd;
+    line-height: 220%;
+    margin:0px;
+    
+  }
+  @media screen and (max-width: 980px) {body
+    {
+      position: center;
+      color:lightcoral;
+      height: 50px;
+      position: relative;
+    } 
+    
+  }
+.white-waves{
+  background-image: url("./../../white-waves.png");
+}
+  li {
+      float: right;
+      list-style-type: none;
+      border-right: 1px solid lightgray;
+      border-top: 10px solid #ffffff;
+      color:#666;
+      display: block;
+      padding: 10px;
+      text-align: center;
+      }
+  
+    .navbar{
+      position: absolute;
+      top: 0px;
+      left:0px;
+      width: 1500px;
+      height:50px;
+     
+    }
+    
+    li a{
+      text-decoration:none;
+      color: gray;
+    }
+  
+  header {
+    background: #ffffff;
+  }
+  
+  h1{
+    padding: 20px;
+    padding-left: 20px;
+    margin: 0px;
+    margin-bottom: 20px;
+    font-size: 34px;
+    font-family:'merriweather', serif;
+    color: white;
+    text-align: left;
+    background: #4aaaa5;
+    width:300px;
+    height: 30px;
+    left:120px;
+    position: relative;
+  }
+  h2{
+    color:#4aaaa5;
+    border-bottom-color: gray;
+    backface-visibility: #ffffff;
+    font-size:28px;
+    font-family: 'merriweather', serif;
+    text-align: top;
+    border-bottom: 1px solid lightgrey;
+  }
+  section{
+    padding-left: 20px;
+    padding: 20px;
+    margin: 30px auto;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #777777;
+    text-align: center,justify;
+    background: #ffffff;
+    line-break:10px;
+    width:1250px;
+    height:1200px;
+  }
+  footer{
+    width:100% auto;
+    margin:0px;
+    padding:0px;
+    background: #777777;
+    border-top:10px solid #44aaaa;
+    text-align: center;
+    color:black; }
+
+    #profile-pic
+    { 
+      width:290px;
+      height:440px; 
+      margin-left: 50px;
+      margin-right:50px;
+      margin-top:10px;
+      margin-bottom:40px;
+    }
+
+    .container {
+      position: relative;
+      text-align: center;
+      color: white;
+      width:45%;
+      float: left;
+    }
+    
+    .centered {
+      background:#4aaaa5;
+      position: absolute;
+      top: 77%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width:58%;
+      padding:10px 1px;
+      color:#ffffff;
+    }
+   .portfolio_pics{
+     height:200px;
+     width:250px;
+   }
+   #Portfolio{
+     position: absolute;
+     width:960px;
+     height:960px;
+     top: 100px;
+     left: 230px;
+     border: 1px solid #cccccc;
+     background-color: #ffffff;
+     overflow:auto;
+     clear:both;
+   }
+.white-waves{
+  background-image: url("./../../white-waves.png");
+}
+  li {
+      float: right;
+      list-style-type: none;
+      border-right: 1px solid lightgray;
+      border-top: 10px solid #ffffff;
+      color:#666;
+      display: block;
+      padding: 10px;
+      text-align: center;
+      }
+  
+    .navbar{
+      position: absolute;
+      top: 0px;
+      left:0px;
+      width: 90%;
+      height:50px;
+     
+    }
+    
+    li a{
+      text-decoration:none;
+      color: gray;
+    }
+  
+  header {
+    background: #ffffff;
+  }
+  
+  h1{
+    padding: 20px;
+    padding-left: 20px;
+    margin: 0px;
+    margin-bottom: 20px;
+    font-size: 34px;
+    font-family:'merriweather', serif;
+    color: white;
+    text-align: left;
+    background: #4aaaa5;
+    width:300px;
+    height: 30px;
+    left:120px;
+    position: relative;
+  }
+  h2{
+    color:#4aaaa5;
+    border-bottom-color: gray;
+    backface-visibility: #ffffff;
+    font-size:28px;
+    font-family: 'merriweather', serif;
+    text-align: top;
+    border-bottom: 1px solid lightgrey;
+  }
+  section{
+    padding-left: 20px;
+    padding: 20px;
+    margin: 30px auto;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #777777;
+    text-align: center,justify;
+    background: #ffffff;
+    line-break:10px;
+    width:1250px;
+    height:1200px;
+  }
+  footer{
+    width:100% auto;
+    margin:0px;
+    padding:0px;
+    background: #777777;
+    border-top:10px solid #44aaaa;
+    text-align: center;
+    color:black; }
+
+    #profile-pic
+    { 
+      width:290px;
+      height:440px; 
+      margin-left: 50px;
+      margin-right:50px;
+      margin-top:10px;
+      margin-bottom:40px;
+    }
+
+    .container {
+      position: relative;
+      text-align: center;
+      color: white;
+      width:45%;
+      float: left;
+    }
+    
+    .centered {
+      background:#4aaaa5;
+      position: absolute;
+      top: 77%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width:58%;
+      padding:10px 1px;
+      color:#ffffff;
+    }
+   .portfolio_pics{
+     height:200px;
+     width:250px;
+   }
+   #Portfolio{
+     position: absolute;
+     width:960px;
+     height:960px;
+     top: 100px;
+     left: 230px;
+     border: 1px solid #cccccc;
+     background-color: #ffffff;
+     overflow:auto;
+     clear:both;
+   }
